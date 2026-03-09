@@ -19,3 +19,5 @@
 <h3> DAY-I Introduction to FOSS - 09/02/2026 </h3>
 <h3> DAY-II Git and Github - 16/02/2026 </h3>
 <h3> DAY-III Where to find Open Source - 23/02/2026 </h3>
+<h3> DAY-IV Open Source Tools - 02/03/2026 </h3>
+<h3> DAY-V The Telecom Transformation - 09/03/2026 </h3>
